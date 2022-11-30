@@ -1,0 +1,42 @@
+.container {
+    max-width: 73% !important;
+ }
+
+hr { 
+    display: block; 
+    height: 1px;
+    border: 0; 
+    border-top: 1px solid #ccc;
+    border-style: dashed;
+}
+
+h1, h2, h4, h3 {
+    color: #5CA49B;
+}
+
+.col > p {
+    font-size: 17px;
+}
+
+.col > ul > li {
+    font-size: 17px;
+}
+
+label{ 
+
+    color: #5CA49B;
+    font-size: 20px ;
+    font-weight:bold ;
+    margin-bottom: -6px ;
+
+}
+
+label > span { 
+
+            color: #000;
+            font-size: 17px;
+            font-weight: 100;
+
+
+
+}
